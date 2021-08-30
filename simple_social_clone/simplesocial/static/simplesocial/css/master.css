@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: #2f294f;
+  margin: 0;
+}
+
+#note {
+  position: absolute;
+  color: black;
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  margin: auto;
+  text-align: center;
+  user-select: none;
+  font-family: Arial;
+}
+#ind{
+  color:#edd1e7;
+}
+#navi{
+
+}
